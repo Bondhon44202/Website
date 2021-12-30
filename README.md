@@ -1,43 +1,5 @@
-<DOCTYPE html>
-    <html>
-        <head>
-            <link ref ="stylesheet" href ="style.css">
-            <link ref ="javascript" href ="B.js">
-            <title>WWW.Free Registration.Com</title>
-            <h1>Free<span>Registration</span><span class=".">.</span><span class ="com">Phone</span></h1>
-              <div class ="line"><marquee>Please Fill Up The Form For An early Connect With BTRC Storage </marquee> </div>
 
-            </head> 
-           <body> 
-        <div class ="all">
-        <div class="Name">
-            <input type="text" placeholder ="Input Your Phone Name">
-        </div></br >
-        <div class="pass">
-        <input type="Password" Placeholder ="Input 16 Charecter Of IMEI Number">
-        </div> <div class ="show"><logo style="show"></div> </br >
-        <div class="button"><a href ="Next.html"></a><input type="submit" value="Free Registration"></input></div>
-        
-        </div> 
-        
-        
-        
-       
-        <style>
-        *{
-            margin: 0%;
-            padding: 0%;
-        }           
-        h1 span {
-                color : green;
-            }
-            h1  {
-                color :red;
-                background-color: black;
-                font-size: 59px;
-                text-align: center;
-            }
-            h1 .com {
+            
                 color :yellow;
             }
             
